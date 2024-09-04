@@ -1,0 +1,12 @@
+{
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/User/Pink2.2.1.1.tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Package Control",
+		"Vintage",
+	],
+	"auto_complete": true,
+	"index_files": true,
+}
