@@ -15,7 +15,7 @@
 		["window_focus", {"store":false}]
 	],
 
-	"shell_cmd": "python -u \"$file\"",
+	"shell_cmd": "python -u \"$file\" & echo[",
 	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
 	"selector": "source.python",
 
